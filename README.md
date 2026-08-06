@@ -22,29 +22,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=RAHULNAYAK07&label=Profile%20Views&style=for-the-badge"/>
 
-</div>
-
-
-# 👋 Hi, I'm Rahul Nayak
-
-### 📊 Aspiring Data Analyst | BI Analyst | Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+%F0%9F%93%8A;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Data+Analytics+%7C+Business+Intelligence;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%92%A1;Analyzing+%7C+Visualizing+%7C+Building+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-<a href="https://github.com/RAHULNAYAK07">
-<img src="https://komarev.com/ghpvc/?username=RAHULNAYAK07&label=PROFILE+VIEWS&style=for-the-badge" />
-</a>
-
-<a href="https://github.com/RAHULNAYAK07?tab=followers">
-<img src="https://img.shields.io/github/followers/RAHULNAYAK07?label=FOLLOWERS&style=for-the-badge" />
-</a>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" alt="Data Analytics" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
