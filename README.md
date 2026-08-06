@@ -1,5 +1,30 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Rahul%20Nayak&fontSize=45&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Analyst&descAlignY=55&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%93%8A+Aspiring+Data+Analyst;%F0%9F%93%88+Power+BI+%7C+SQL+%7C+Excel+%7C+Python;%F0%9F%94%8D+Exploring+Data+%26+Finding+Patterns;%F0%9F%92%A1+Turning+Data+into+Actionable+Insights;%F0%9F%9A%80+Building+Data+Projects+%26+Learning+Every+Day" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/rahulnayak-data/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rahulnayak1705@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RAHULNAYAK07">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=RAHULNAYAK07&label=Profile%20Views&style=for-the-badge"/>
+
+</div>
+
+
 # 👋 Hi, I'm Rahul Nayak
 
 ### 📊 Aspiring Data Analyst | BI Analyst | Full Stack Developer
@@ -22,55 +47,51 @@
 
 ## 👨‍💻 About Me
 
-```python id="3yyzxn"
-rahul = {
-    "name": "Rahul Nayak",
-    "role": ["Aspiring Data Analyst", "BI Analyst", "Full Stack Developer"],
-    "education": "B.Tech - Computer Science Engineering",
-    "university": "Graphic Era Hill University",
-    "graduation": 2025,
-    "experience": "6-Month AI Cloud Engineer Internship",
+<img align="right" alt="Data Analytics" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-    "analytics_stack": [
-        "SQL",
-        "Power BI",
-        "Excel",
-        "Python"
-    ],
+### Hey! I'm **Rahul Nayak** 👋
 
-    "development_stack": [
-        "Angular",
-        ".NET",
-        "REST APIs"
-    ],
+📊 An aspiring **Data Analyst & BI Analyst** who enjoys turning complex datasets into clear, meaningful and actionable insights.
 
-    "interests": [
-        "Data Analytics",
-        "Business Intelligence",
-        "Data Visualization"
-    ],
+* 📈 Building interactive dashboards with **Power BI & Excel**
+* 🗄️ Analyzing data using **SQL & MySQL**
+* 🐍 Exploring datasets with **Python, Pandas & NumPy**
+* 🔍 Interested in **EDA, Data Visualization & Business Intelligence**
+* 💼 Former **AI Cloud Engineer Intern at Insight**
+* 💻 Development background in **Angular, .NET & REST APIs**
+* 🎓 B.Tech in **Computer Science Engineering**
+* 🚀 Open to **Data Analyst & BI Analyst opportunities**
 
-    "goal": "Transform Data into Actionable Business Insights"
-}
-```
-
-📊 Passionate about transforming **raw data into meaningful business insights**
-
-📈 Building interactive dashboards using **Power BI & Excel**
-
-🗄️ Strong understanding of **SQL, Joins, CTEs, Subqueries & Window Functions**
-
-🐍 Using **Python, Pandas & NumPy** for data analysis and exploration
-
-💼 Completed a **6-month internship at Insight** as an **AI Cloud Engineer Intern**
-
-💻 Development experience with **Angular, .NET, SQL & REST APIs**
-
-📊 Building analytics projects across **Retail, Food Delivery, FinTech, Music & Product Analytics**
-
-🎯 Currently exploring opportunities in **Data Analytics & Business Intelligence**
+<br clear="right"/>
 
 ---
+
+<div align="center">
+
+### 🧠 What I Love Working With
+
+<img src="https://img.shields.io/badge/Data%20Analytics-📊-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-📈-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-📉-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-💡-orange?style=for-the-badge"/>
+
+<br><br>
+
+### ⚡ My Analytics Workflow
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&center=true&vCenter=true&width=750&lines=%F0%9F%97%83%EF%B8%8F+Raw+Data+%E2%86%92+%F0%9F%A7%B9+Clean+%26+Transform;%F0%9F%94%8D+Explore+%E2%86%92+%F0%9F%93%8A+Analyze;%F0%9F%93%88+Visualize+%E2%86%92+%F0%9F%92%A1+Generate+Insights;%F0%9F%92%A1+Insights+%E2%86%92+%F0%9F%8E%AF+Business+Decisions" alt="Analytics Workflow"/>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216649426-62f9cdd5-5e1f-4a73-b4b2-30b92d94e07e.gif" width="90"/>
+
+### 💡 Data → Insights → Decisions
+
+</div>
+
+---
+
+
 
 # 🛠️ Tech Stack
 
